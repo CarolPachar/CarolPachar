@@ -18,3 +18,6 @@ Here are some ideas to get you started:
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/CarolPachar/count.svg" alt="Visitor's Count" />
 </div>
+
+<img src="https://github.com/CarolPachar/CarolPachar/blob/main/Pokemon Banner.jpg" alt="Pokemon Banner">
+
